@@ -1,4 +1,4 @@
-👋 Hi there, I am Neelesh Chaturvedi.
+Hi there, I am Neelesh Chaturvedi.
 
 Welcome to my portfolio! This repository showcases my work in Power BI, SQL, and data analytics, featuring projects that highlight my skills in dashboarding, data visualization, and business insights.
 
