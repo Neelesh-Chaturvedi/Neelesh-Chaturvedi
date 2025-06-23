@@ -17,7 +17,7 @@ I’m passionate about growing in my career, picking up new tech skills.
 
 ----------------------------------------------------------------------------------
 
-Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out you’re in the right place! 🫶
+Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out you’re in the right place ! 🫶
 
-Let’s connect, learn, and grow together—one repo at a time.
-You bring the snacks, I’ll bring the code 🍪💻
+Let’s connect, learn, and grow together one repo at a time.
+
