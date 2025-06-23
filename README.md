@@ -1,25 +1,19 @@
-Hi there, I am Neelesh Chaturvedi.
+Hey there, I’m so glad you’re here!
 
-Welcome to my portfolio! This repository showcases my work in Power BI, SQL, and data analytics, featuring projects that highlight my skills in dashboarding, data visualization, and business insights.
+----------------------------------------------------
 
-📊 Featured Projects
+Welcome to my little corner of GitHub!
+I’m passionate about growing in my career, picking up new tech skills.
 
-Power BI
+------------------------------------------------------------------------------------------------
 
-Hospitality Analytics Dashboard – Analyzing booking trends, cancellation rates, and occupancy metrics.
+Here, you'll find:
 
-Market Share Analysis – Exploring revenue trends and user churn across telecom providers.
+🛠️ Projects I’m building or contributing to
+📚 Things I’ve learned while juggling work, deadlines, and debugging
+🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
 
-Power BI Sales Dashboard – A dynamic dashboard with interactive insights into sales performance.
+Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out you’re in the right place! 🫶
 
-
-🔧 Skills & Tools
-
-Power BI – Dashboard design, DAX, data modeling
-
-SQL – Query optimization, database management
-
-Excel – Pivot tables, data cleaning
-
-Python – Data analysis & visualization
-
+Let’s connect, learn, and grow together—one repo at a time.
+You bring the snacks, I’ll bring the code 🍪💻
