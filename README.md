@@ -1,5 +1,4 @@
 Hey there, I’m so glad you’re here!
-
 ----------------------------------------------------
 
 Welcome to my little corner of GitHub!
