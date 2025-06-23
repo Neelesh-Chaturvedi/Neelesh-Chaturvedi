@@ -21,6 +21,7 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 
 Let’s connect, learn, and grow together one repo at a time.
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect with Me
 
@@ -28,10 +29,13 @@ Let’s connect, learn, and grow together one repo at a time.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelesh-data/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://codebasics.io/portfolio/Neelesh-Chaturvedi)
 
----
+--------------------------------------------------------------------------------------------------------
 
 ## 🧠 Tech Stack
 
+
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power%20Query-742774?logo=powerbi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
